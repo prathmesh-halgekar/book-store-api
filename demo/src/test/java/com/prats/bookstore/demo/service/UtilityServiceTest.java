@@ -1,4 +1,4 @@
-package com.kredit24.bookstore.demo.service;
+package com.prats.bookstore.demo.service;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;

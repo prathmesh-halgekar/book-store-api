@@ -1,4 +1,4 @@
-package com.kredit24.bookstore.demo;
+package com.prats.bookstore.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
