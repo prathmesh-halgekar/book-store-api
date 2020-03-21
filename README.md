@@ -1,6 +1,4 @@
-### Kredite24 Coding Challenge 
-
-Please read "Kredite24 Coding Challenge Java.docx"
+### Spring Restful API with Angular 9 demo 
 
 How to Run the BookStore App:
 1)Please find the executable in demo/target/demo-0.0.1-SNAPSHOT.jar and can be run using 'java -jar demo-0.0.1-SNAPSHOT.jar' OR 'mvn spring-boot:run' from the /demo folder
